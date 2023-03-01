@@ -10,3 +10,6 @@ this is what i wrote and i want to see if somebody can figure out how stupid i a
 javascript:function If host "https://go.playdreamscape.com" runaction:action1 [ action1:function find asset:"question" findasset:"answer1" findasset:"answer2" findasset:"answer3" findasset:"answer4" runaction:"answer1"correct=true runaction:"answer2"correct=true runaction:"answer3"correct=true runaction:"answer4"correct=true]
 
 please post help in issues
+
+omg im so dumb idk even know if you guys can post in issues.
+reeeeeeeeeeeeeeeeeeeee
